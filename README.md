@@ -15,7 +15,7 @@ pip install cat_project
 
 ## Usage 
 ```
-print("맥북 바꾸시면 좋다고 제가 절대 강요하는 것은 아닙니다")
+print("맥북 바꾸시면 좋아요...")
 ```
 
 ## Example 
