@@ -1,4 +1,5 @@
-# test_project
+# 맥북 권장사항 
+맥북프로 13인치 RAM16기가 SSD256 
 
 
 # Quickstart 
