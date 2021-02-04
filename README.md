@@ -23,8 +23,8 @@ print("맥북 바꾸시면 좋다고 제가 절대 강요하는 것은 아닙니
 
 
 ## Reference  
-[Macbook_중고](http://dtek.co.kr/product/list.html?cate_no=52, "macbook_중고 link") \n
-[Macbook_새거](https://www.coupang.com/vp/products/1650206709?itemId=2811520695&vendorItemId=70801067447&sourceType=CATEGORY&categoryId=497035&isAddedCart=, "macbook_새거 link")
+[Macbook_중고](http://dtek.co.kr/product/list.html?cate_no=52, "macbook_중고 link")\n[Macbook_새거](https://www.coupang.com/vp/products/1650206709?itemId=2811520695&vendorItemId=70801067447&sourceType=CATEGORY&categoryId=497035&isAddedCart=, "macbook_새거 link")
+
 
 
 ## Issue 
